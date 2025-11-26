@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\muroa\\documents\\github\\unrealenginetest2025ca\\eu2025ca\\source\\eu2025ca\\eu2025ca.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\muroa\\documents\\github\\unrealenginetest2025ca\\eu2025ca\\intermediate\\build\\win64\\x64\\eu2025caeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\muroa\\documents\\github\\unrealenginetest2025ca\\eu2025ca\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eu2025ca\\definitions.eu2025ca.h",
+            "c:\\users\\muroa\\documents\\github\\unrealenginetest2025ca\\eu2025ca\\source\\eu2025ca\\eu2025ca.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

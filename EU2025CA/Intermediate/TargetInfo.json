@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EU2025CA",
+			"Path": "..\\Source\\EU2025CA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EU2025CAEditor",
+			"Path": "..\\Source\\EU2025CAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

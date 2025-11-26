@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\muroa\\documents\\github\\unrealenginetest2025ca\\eu2025ca\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eu2025ca\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\muroa\\documents\\github\\unrealenginetest2025ca\\eu2025ca\\intermediate\\build\\win64\\x64\\eu2025caeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\muroa\\documents\\github\\unrealenginetest2025ca\\eu2025ca\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eu2025ca\\definitions.eu2025ca.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
